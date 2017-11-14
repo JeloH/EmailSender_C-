@@ -1,0 +1,48 @@
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\bin\Debug\db\db_sms.mdf
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\bin\Debug\db\db_sms_log.ldf
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\bin\Debug\WindowsFormsApplication11_Part_SMS.exe.config
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\bin\Debug\WindowsFormsApplication11_Part_SMS.exe
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\bin\Debug\WindowsFormsApplication11_Part_SMS.pdb
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Form1.resources
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Form_Email.resources
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Main.resources
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.New_M.resources
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Properties.Resources.resources
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Tanzimat_email.resources
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\ResGen.read.1.tlog
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\ResGen.write.1.tlog
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.exe
+F:\NovinKar\part2_Email\WindowsFormsApplication11_Part_SMS\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.pdb
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\bin\Debug\WindowsFormsApplication11_Part_SMS.exe.config
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.exe
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.pdb
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\bin\Debug\db\db_sms.mdf
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\bin\Debug\db\db_sms_log.ldf
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\bin\Debug\WindowsFormsApplication11_Part_SMS.exe
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\bin\Debug\WindowsFormsApplication11_Part_SMS.pdb
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Form1.resources
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Form_Email.resources
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Main.resources
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.New_M.resources
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Properties.Resources.resources
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Tanzimat_email.resources
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\ResGen.read.1.tlog
+F:\New folder\حامد جلودار\document\DesktopApp\Emailپیاده سازی نرم افزار مدیریت ارسال گروهی ایمیل\WindowsFormsApplication11_Part_email\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\bin\Debug\WindowsFormsApplication11_Part_SMS.exe.config
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.exe
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.pdb
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\bin\Debug\db\db_sms.mdf
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\bin\Debug\db\db_sms_log.ldf
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\bin\Debug\WindowsFormsApplication11_Part_SMS.exe
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\bin\Debug\WindowsFormsApplication11_Part_SMS.pdb
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Form1.resources
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Form_Email.resources
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Main.resources
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.New_M.resources
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Properties.Resources.resources
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\WindowsFormsApplication11_Part_SMS.Tanzimat_email.resources
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\w2\Desktop\New folder (16)\New folder (6)\desktop\2_WindowsFormsApplication11_Part_email\obj\x86\Debug\ResGen.write.1.tlog
